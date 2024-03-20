@@ -1,3 +1,5 @@
 # JOSH-1
 THIS IS MY FIRST REPOSITORY
-AUTHOR Chandrashakar Josh
+AUTHOR (Chandra shakar Josh )
+
+
